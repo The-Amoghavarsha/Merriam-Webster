@@ -10,8 +10,8 @@ sed
 <h1>Installation</h1>
 
 ```
-git clone https://github.com/The-Amoghavarsha/Merriam-Webster.git
-cd Merriam-Webster
+git clone https://github.com/The-Amoghavarsha/Merriam-Webster-CLI.git
+cd Merriam-Webster-CLI
 chmod +x mw
 ```
 
