@@ -1,5 +1,6 @@
 #!/bin/sh
-echo "$(figlet Merriam Dictionary)\n"
+echo "$(figlet Merriam-Webster)"
+echo "- By Amoghavarsha"
 echo "DISCLAIMER: SEARCH FOR YOUR FAVOURITE WORD IN lower case\n"
 echo "Type the word: "
 read word
