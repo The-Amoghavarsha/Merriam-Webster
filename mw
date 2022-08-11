@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "$(figlet MW-CLI)"
+echo "$(figlet MW - CLI)"
 echo "- By Amoghavarsha @TheAmoghavarsha \n"
 echo "DISCLAIMER: SEARCH FOR YOUR FAVOURITE WORD IN lower case\n"
 echo "Type the word: "
